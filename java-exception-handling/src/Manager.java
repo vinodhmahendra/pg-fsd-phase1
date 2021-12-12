@@ -3,6 +3,11 @@ public class Manager  implements Role{
 	
 	
 
+	public Manager() {
+		super();
+	
+	}
+
 	@Override
 	public String getRoleName() {
 		
